@@ -6,7 +6,7 @@ line 1: Banner line
 line 2: UTC date and time
 line 3: latitude and longitude
 line 4: Maidenhead locator, Temperature and Pressure
-line 5: Number of satellites, Antenna indicator, Speed, Heading, Altitude 
+line 5: Number of satellites, Antenna indicator, Speed, Heading, Altitude  
 
 Lines 3 to 5 are only updated when there is a position fix
 This GPS receiver from Adafruit has a real time clock, so if the time
