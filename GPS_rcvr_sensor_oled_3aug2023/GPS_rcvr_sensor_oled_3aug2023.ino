@@ -259,4 +259,4 @@ void loop()                     // run over and over again
   }
 }
 //
-// Last update 4-Aug-2023 15:55
+// Written by PA1EJO Ernst, last update 4-Aug-2023 15:55
